@@ -1,0 +1,155 @@
+@-webkit-keyframes a {
+    0%{color: black;}
+    50%{color: red;}	
+    100%{color: black;}	
+}
+
+@-webkit-keyframes b {
+    0%{color: black;}
+    50%{color: blue;}	
+    100%{color: black;}
+}
+
+@-webkit-keyframes c {
+    0%{color: black;}
+    50%{color: orange;}	
+    100%{color: black;}
+}
+
+@-webkit-keyframes d {
+    0%{color: black;}
+    50%{color: navy;}	
+    100%{color: black;}
+}
+
+@-webkit-keyframes e {
+    0%{color: black;}
+    50%{color: lime;}	
+    100%{color: black;}
+}
+
+@-webkit-keyframes f {
+    0%{color: black;}
+    50%{color: seagreen;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes g {
+    0%{color: black;}
+    50%{color: indigo;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes h {
+    0%{color: black;}
+    50%{color: khaki;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes i {
+    0%{color: black;}
+    50%{color: black;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes j {
+    0%{color: black;}
+    50%{color: darkblue;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes k {
+    0%{color: black;}
+    50%{color: gold;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes l {
+    0%{color: black;}
+    50%{color: mediumblue;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes m {
+    0%{color: black;}
+    50%{color: darkviolet;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes n {
+    0%{color: black;}
+    50%{color: hotpink;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes o {
+    0%{color: black;}
+    50%{color: ivory;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes p {
+    0%{color: black;}
+    50%{color: violet;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes q {
+    0%{color: black;}
+    50%{color: chocolate;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes r {
+    0%{color: black;}
+    50%{color: crimson;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes s {
+    0%{color: black;}
+    50%{color: lightgray;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes t {
+    0%{color: black;}
+    50%{color: green;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes u {
+    0%{color: black;}
+    50%{color: darkgray;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes v {
+    0%{color: black;}
+    50%{color: magenta;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes w {
+    0%{color: black;}
+    50%{color: gainsboro;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes x {
+    0%{color: black;}
+    50%{color: saddlebrown;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes y {
+    0%{color: black;}
+    50%{color: yellow;}
+    100%{color: black;}	
+}
+
+@-webkit-keyframes z {
+    0%{color: black;}
+    50%{color: darkslategray;}
+    100%{color: black;}	
+}

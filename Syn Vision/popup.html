@@ -1,0 +1,43 @@
+<html>
+    <head>
+        
+        <style>
+        
+            input {
+                -webkit-animation: rainbow 5s infinite; 
+                
+                background-color: black;
+                border: none;
+                font-family: "Press Start 2P";
+                font-size: 24px;
+            }
+            
+            input:focus {outline:none;}
+            
+            @-webkit-keyframes rainbow{
+                20%{color: red;}
+                40%{color: yellow;}
+                60%{color: green;}
+                80%{color: blue;}
+                100%{color: orange;}	
+            }
+            
+            body{
+                background-color: black;
+                margin:0px !important;
+            }
+            
+            
+        
+        </style>
+    
+        <script src="popup.js"></script>
+        
+    </head>
+    <body>
+        <input id="button" value="colorize" type="button">
+        
+        <span color="red"> BLAH </span>
+    
+    </body>
+</html>
